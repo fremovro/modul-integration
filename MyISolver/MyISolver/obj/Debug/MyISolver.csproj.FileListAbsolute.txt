@@ -1,0 +1,6 @@
+C:\Users\copy13\source\repos\MyISolver\MyISolver\bin\Debug\MyISolver.dll
+C:\Users\copy13\source\repos\MyISolver\MyISolver\bin\Debug\MyISolver.pdb
+C:\Users\copy13\source\repos\MyISolver\MyISolver\obj\Debug\MyISolver.csprojAssemblyReference.cache
+C:\Users\copy13\source\repos\MyISolver\MyISolver\obj\Debug\MyISolver.csproj.CoreCompileInputs.cache
+C:\Users\copy13\source\repos\MyISolver\MyISolver\obj\Debug\MyISolver.dll
+C:\Users\copy13\source\repos\MyISolver\MyISolver\obj\Debug\MyISolver.pdb

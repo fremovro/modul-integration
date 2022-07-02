@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework> 
+
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Library1.fs" />
+    <None Include="Script.fsx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MyISolver">
+      <HintPath>..\..\MyISolver\MyISolver\bin\Debug\MyISolver.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

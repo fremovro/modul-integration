@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K1Vl2xhysAH0IlQla6uhVYCH8yyIKbxhIYtr9FVyaT85dY4m/s62AqzQI+OUgOd2elZcavwSYzLGm6tn5vp9ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\copy13\\source\\repos\\MyClass\\MyClass\\MyClass.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\copy13\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
